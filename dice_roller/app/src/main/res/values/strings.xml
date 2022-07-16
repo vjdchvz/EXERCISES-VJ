@@ -2,4 +2,9 @@
     <string name="app_name">dice_roller</string>
     <string name="roll_it_baby">ROLL IT BABY</string>
     <string name="_1">1</string>
+    <string name="your_fortune_text">YOUR FORTUNE</string>
+    <string name="fortune_show">fortune show</string>
+    <string name="dice_pic">dice pic</string>
+    <string name="_5_is_your_lucky_number_text">5 is your lucky number!</string>
+    <string name="_1_is_your_unlucky_number_string">1 is your unlucky number :)</string>
 </resources>
