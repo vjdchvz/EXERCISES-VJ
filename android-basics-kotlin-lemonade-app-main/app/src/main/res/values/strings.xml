@@ -21,4 +21,5 @@
     <string name="lemon_empty_glass">Click to start again!</string>
     <string name="squeeze_count">Squeeze count: %1$d, keep squeezing!</string>
     <string name="lemontree">lemontree</string>
+    <string name="copyright">COPYRIGHT 2022</string>
 </resources>
